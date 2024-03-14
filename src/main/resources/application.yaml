@@ -1,0 +1,10 @@
+pl:
+  edu:
+    pja:
+      tpo02:
+        filename: dictionary.csv
+
+
+spring:
+  banner:
+    location: logo-app
